@@ -1,0 +1,20 @@
+# Arquivos do Maven
+/target/
+
+# Arquivos de configuração de IDEs
+*.iml
+.idea/
+*.classpath
+*.project
+*.settings/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de log ou temporários
+*.log
+*.tmp
+
+# Chave API
+src/main/resources/api.properties
